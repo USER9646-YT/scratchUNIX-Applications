@@ -1,1 +1,1 @@
-Example
+This is a example file. This is to test folders in ScratchUNIX. Nothing else.
